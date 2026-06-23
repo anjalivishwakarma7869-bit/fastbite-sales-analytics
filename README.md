@@ -246,9 +246,3 @@ The Fast Food Restaurant Sales Analysis project demonstrates how Excel can be us
 Through sales, profit, customer, and regional analysis, the dashboard helps restaurant management make data-driven decisions regarding product performance, pricing strategies, customer retention, and profitability improvement.
 
 ---
-
-## 🚀 Resume Project Description
-
-**Fast Food Restaurant Sales Analysis | Excel Dashboard Project**
-
-Developed an interactive Excel dashboard analyzing 200 restaurant transactions to track sales, profit, customer behavior, and regional performance. Generated business insights using Pivot Tables, Charts, KPIs, and data visualization techniques.
